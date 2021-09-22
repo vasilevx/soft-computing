@@ -1,0 +1,11 @@
+input[type="number"] {
+  width: 70px;
+}
+
+input[type="button"] {
+  padding: 14px;
+  width: 100%;
+  margin-top: 32px;
+  font-weight: bold;
+  cursor: pointer;
+}

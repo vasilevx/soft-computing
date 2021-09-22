@@ -1,0 +1,15 @@
+.App {
+  padding: 0 24px;
+}
+
+.App ul {
+  padding: 0;
+}
+
+.App li {
+  list-style: decimal;
+}
+
+.App a {
+  color: blue;
+}
